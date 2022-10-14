@@ -1,4 +1,4 @@
-# Company-Sales-Trend-During-ans-Off-Promotion-
+# Company-Sales-Trend-During-and-Off-Promotion-
 Advanced Excel Data Analytics 
 Advanced Excel Analytics
 This is a company's sales data dashboard I built using the most powerful tool MS Excel.
